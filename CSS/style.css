@@ -9,7 +9,7 @@ body {
       rgba(0, 0, 0, 0.5),
       rgba(103, 212, 205, 0.7)
     ), 
-    url('/imagenes/bosque.jpg') no-repeat center center fixed;
+    url('/CSS/Recursos/bosque.jpg') no-repeat center center fixed;
   background-size: cover;
   color: white;
 }
